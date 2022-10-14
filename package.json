@@ -1,0 +1,16 @@
+{
+  "name": "ui5-icons-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "nps build.templates"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ui5/webcomponents-base": "1.8.0"
+  },
+  "devDependencies": {
+    "@ui5/webcomponents-tools": "1.8.0"
+  }
+}
